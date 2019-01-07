@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>C57F480F-4070-4A1C-AC23-244DC5D0C891</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C57F480F-4070-4A1C-AC23-244DC5D0C891.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>coupleMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>coupleMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568529543.25853395</real>
+			<key>timeStoppedRecording</key>
+			<real>568529544.17532897</real>
+			<key>title</key>
+			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C57F480F-4070-4A1C-AC23-244DC5D0C891</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
