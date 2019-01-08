@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>7D790F53-F99F-4A31-8FCC-DE28A898F923</key>
+		<key>65B2374B-5854-45BB-A122-2400BED272DB</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7D790F53-F99F-4A31-8FCC-DE28A898F923.xcactivitylog</string>
+			<string>65B2374B-5854-45BB-A122-2400BED272DB.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,13 @@
 			<key>signature</key>
 			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>568609888.66246498</real>
+			<real>568612389.97358096</real>
 			<key>timeStoppedRecording</key>
-			<real>568609889.74737298</real>
+			<real>568612391.40673804</real>
 			<key>title</key>
 			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>7D790F53-F99F-4A31-8FCC-DE28A898F923</string>
+			<string>65B2374B-5854-45BB-A122-2400BED272DB</string>
 		</dict>
 		<key>F669690F-1946-43AB-BC34-87BEE2C4F383</key>
 		<dict>
