@@ -5,7 +5,7 @@ const Header = ( props ) => {
     const { textStyle, viewStyle,containerStyle } = styles
     return (
         <View style={containerStyle}>
-            <View style={viewStyle}>
+            <View style = {viewStyle}>
                 <Text style={textStyle}>{props.headerText}</Text>
             </View>
             
@@ -17,18 +17,17 @@ const styles = {
         justifyContent: 'center',
         alignItems: 'center',
         paddingTop: 30,
-        
-
     },
     containerStyle: {
         height: 72,
+
         backgroundColor: '#b276ff',
     },
     textStyle: {
-        fontSise: 16,
-        color: '#ffffff',
-        // fontWeight: 600,
-        // fontFamily: 'Montserrat'
+        fontSize: 16,
+        color: '#fff'
     }
+    
+    
 }
 export default Header
