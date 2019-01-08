@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>E9F00370-033E-422E-95A4-1CC545AD741F</key>
+		<key>7D790F53-F99F-4A31-8FCC-DE28A898F923</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E9F00370-033E-422E-95A4-1CC545AD741F.xcactivitylog</string>
+			<string>7D790F53-F99F-4A31-8FCC-DE28A898F923.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,42 @@
 			<key>signature</key>
 			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>568536627.69867396</real>
+			<real>568609888.66246498</real>
 			<key>timeStoppedRecording</key>
-			<real>568536629.19991398</real>
+			<real>568609889.74737298</real>
 			<key>title</key>
 			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>E9F00370-033E-422E-95A4-1CC545AD741F</string>
+			<string>7D790F53-F99F-4A31-8FCC-DE28A898F923</string>
+		</dict>
+		<key>F669690F-1946-43AB-BC34-87BEE2C4F383</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F669690F-1946-43AB-BC34-87BEE2C4F383.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>coupleMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>coupleMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568610712.16283298</real>
+			<key>timeStoppedRecording</key>
+			<real>568610713.63079703</real>
+			<key>title</key>
+			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F669690F-1946-43AB-BC34-87BEE2C4F383</string>
 		</dict>
 	</dict>
 </dict>
