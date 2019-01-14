@@ -4,19 +4,15 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 //import { Icon, Button } from 'react-native-elements';
 
 const Header = ( props ) => {
-    const { textStyle, textContainerStyle,containerStyle,iconContainerStyle} = styles
+    const { textStyle, textContainerStyle,containerStyle,ButtonContainerStyle} = styles
     return (
         <View style={containerStyle}>
-            <View style={iconContainerStyle}>
+            <View style={ButtonContainerStyle}>
                 <Icon name='arrow-left' size={30} color='#fff' />
             </View>
             <View style = {textContainerStyle}>
                 <Text style={textStyle}>{props.headerText}</Text>
             </View>
-
-            
-        
- 
         </View>
     )
 }
@@ -32,7 +28,7 @@ const styles = {
         justifyContent: 'center',
         alignItems: 'center',
     },
-    iconContainerStyle: {
+    ButtonContainerStyle: {
         position: 'absolute',
         left: 0,
         justifyContent: 'center',
@@ -40,12 +36,8 @@ const styles = {
         marginLeft: 10
     },
     textStyle: {
-        fontSize: 16,
+        fontSize: 20,
         color: '#fff'
     }
-    
-
-    
-    
 }
 export default Header
