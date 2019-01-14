@@ -13,4 +13,12 @@ dependencies: \
   /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
   /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
   /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/duongtung/workspace/couple-mobile/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/duongtung/workspace/couple-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h

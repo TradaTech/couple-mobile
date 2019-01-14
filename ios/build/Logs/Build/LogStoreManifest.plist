@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>65B2374B-5854-45BB-A122-2400BED272DB</key>
+		<key>226E6128-67BE-4DC3-87E3-9C554754C5A2</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,9 +15,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>65B2374B-5854-45BB-A122-2400BED272DB.xcactivitylog</string>
+			<string>226E6128-67BE-4DC3-87E3-9C554754C5A2.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>E</string>
+			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>coupleMobile project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -27,42 +27,13 @@
 			<key>signature</key>
 			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>568612389.97358096</real>
+			<real>569095010.72901797</real>
 			<key>timeStoppedRecording</key>
-			<real>568612391.40673804</real>
+			<real>569095023.51670098</real>
 			<key>title</key>
 			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>65B2374B-5854-45BB-A122-2400BED272DB</string>
-		</dict>
-		<key>F669690F-1946-43AB-BC34-87BEE2C4F383</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F669690F-1946-43AB-BC34-87BEE2C4F383.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>coupleMobile project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>coupleMobile</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>568610712.16283298</real>
-			<key>timeStoppedRecording</key>
-			<real>568610713.63079703</real>
-			<key>title</key>
-			<string>Building project coupleMobile with scheme coupleMobile and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>F669690F-1946-43AB-BC34-87BEE2C4F383</string>
+			<string>226E6128-67BE-4DC3-87E3-9C554754C5A2</string>
 		</dict>
 	</dict>
 </dict>
